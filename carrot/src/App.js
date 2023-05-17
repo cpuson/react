@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-                      
+          
 
           Learn React
         </a>
@@ -27,3 +27,7 @@ function App() {
 
 export default App;
 // ctrl + c react 종료
+// 안될시
+// npm update
+// npm install -g react-scripts
+// npm start
